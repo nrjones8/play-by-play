@@ -1,0 +1,483 @@
+20111225LACGSW	1	00:48:00	Jump Ball Biedrins vs Jordan (Lee gains possession)
+20111225LACGSW	2	00:47:36	[GSW 2-0] Biedrins Turnaround Hook Shot: Made (2 PTS) Assist: Lee (1 AST)
+20111225LACGSW	3	00:47:11	[LAC 3-2] Billups 3pt Shot: Made (3 PTS) Assist: Butler (1 AST)
+20111225LACGSW	4	00:46:51	[GSW 4-3] Curry Jump Shot: Made (2 PTS)
+20111225LACGSW	5	00:46:28	[LAC 6-4] Paul 3pt Shot: Made (3 PTS) Assist: Billups (1 AST)
+20111225LACGSW	6	00:46:09	[GSW] Ellis Jump Shot: Missed Block: Jordan (1 BLK)
+20111225LACGSW	7	00:46:06	[LAC] Butler Rebound (Off:0 Def:1)
+20111225LACGSW	8	00:46:02	[LAC] Paul Layup Shot: Missed Block: Biedrins (1 BLK)
+20111225LACGSW	9	00:45:59	[GSW] Lee Rebound (Off:0 Def:1)
+20111225LACGSW	10	00:45:57	[GSW 6-6] Ellis Slam Dunk Shot: Made (2 PTS) Assist: Lee (2 AST)
+20111225LACGSW	11	00:45:33	[LAC] Billups Jump Shot: Missed Block: Curry (1 BLK)
+20111225LACGSW	12	00:45:31	[GSW] Lee Rebound (Off:0 Def:2)
+20111225LACGSW	13	00:45:22	[GSW] Curry 3pt Shot: Missed
+20111225LACGSW	14	00:45:21	[GSW] D. Wright Rebound (Off:1 Def:0)
+20111225LACGSW	15	00:45:12	[GSW] Lee Reverse Layup Shot: Missed
+20111225LACGSW	16	00:45:11	[GSW] Biedrins Rebound (Off:1 Def:0)
+20111225LACGSW	17	00:44:54	[GSW 8-6] Lee Driving Finger Roll Layup Shot: Made (2 PTS) Assist: Ellis (1 AST)
+20111225LACGSW	18	00:44:39	[LAC] Griffin Jump Shot: Missed
+20111225LACGSW	19	00:44:38	[GSW] Biedrins Rebound (Off:1 Def:1)
+20111225LACGSW	20	00:44:26	[GSW] Lee Hook Shot: Missed Block: Jordan (2 BLK)
+20111225LACGSW	21	00:44:24	[LAC] Team Rebound
+20111225LACGSW	22	00:44:06	[GSW] Curry Foul: Personal (1 PF)
+20111225LACGSW	23	00:43:59	[LAC] Billups Step Back Jump shot: Missed
+20111225LACGSW	24	00:43:58	[GSW] D. Wright Rebound (Off:1 Def:1)
+20111225LACGSW	25	00:43:48	[GSW] Lee Jump Shot: Missed
+20111225LACGSW	26	00:43:46	[GSW] Curry Rebound (Off:1 Def:0)
+20111225LACGSW	27	00:43:43	[GSW 10-6] Biedrins Layup Shot: Made (4 PTS) Assist: Curry (1 AST)
+20111225LACGSW	28	00:43:30	[LAC] Butler 3pt Shot: Missed
+20111225LACGSW	29	00:43:28	[GSW] Biedrins Rebound (Off:1 Def:2)
+20111225LACGSW	30	00:43:21	[GSW] Ellis Layup Shot: Missed
+20111225LACGSW	32	00:43:20	[GSW 12-6] Biedrins Putback Dunk Shot: Made (6 PTS)
+20111225LACGSW	31	00:43:20	[GSW] Biedrins Rebound (Off:2 Def:2)
+20111225LACGSW	33	00:43:11	[LAC] Team Timeout : Regular
+20111225LACGSW	34	00:43:06	[LAC 8-12] Billups Fadeaway Jump Shot: Made (5 PTS)
+20111225LACGSW	35	00:42:48	[GSW] D. Wright 3pt Shot: Missed
+20111225LACGSW	36	00:42:46	[GSW] Ellis Rebound (Off:1 Def:0)
+20111225LACGSW	37	00:42:36	[GSW] Ellis Turnover : Lost Ball (1 TO) Steal:Griffin (1 ST)
+20111225LACGSW	39	00:42:31	[LAC] Billups Foul: Personal (1 PF)
+20111225LACGSW	38	00:42:31	[LAC] Paul Turnover : Bad Pass (1 TO) Steal:Curry (1 ST)
+20111225LACGSW	40	00:42:16	[GSW 14-8] Lee Turnaround Hook Shot: Made (4 PTS)
+20111225LACGSW	41	00:41:48	[LAC] Paul 3pt Shot: Missed
+20111225LACGSW	42	00:41:46	[LAC] Jordan Rebound (Off:1 Def:0)
+20111225LACGSW	43	00:41:38	[LAC 10-14] Griffin Driving Layup Shot: Made (2 PTS)
+20111225LACGSW	46	00:41:27	[GSW] Biedrins Foul: Loose Ball (1 PF)
+20111225LACGSW	45	00:41:27	[LAC] Team Rebound
+20111225LACGSW	44	00:41:27	[GSW] Ellis 3pt Shot: Missed
+20111225LACGSW	47	00:41:14	[GSW] Lee Foul: Personal (1 PF)
+20111225LACGSW	48	00:41:14	[GSW] D. Wright Substitution replaced by Thompson
+20111225LACGSW	49	00:41:14	[GSW] Biedrins Substitution replaced by Udoh
+20111225LACGSW	50	00:41:08	[LAC] Billups Jump Shot: Missed Block: Curry (2 BLK)
+20111225LACGSW	51	00:41:08	[LAC] Team Rebound
+20111225LACGSW	55	00:41:05	[LAC 12-14] Billups Free Throw 2 of 2 (7 PTS)
+20111225LACGSW	54	00:41:05	[GSW] Curry Substitution replaced by Rush
+20111225LACGSW	53	00:41:05	[LAC 11-14] Billups Free Throw 1 of 2 (6 PTS)
+20111225LACGSW	52	00:41:05	[GSW] Curry Foul: Personal (2 PF)
+20111225LACGSW	56	00:40:47	[GSW] Udoh Jump Shot: Missed Block: Jordan (3 BLK)
+20111225LACGSW	57	00:40:46	[LAC] Billups Rebound (Off:0 Def:1)
+20111225LACGSW	61	00:40:35	[LAC] Butler Free Throw 2 of 2 Missed
+20111225LACGSW	60	00:40:35	[LAC] Billups Substitution replaced by Williams
+20111225LACGSW	59	00:40:35	[LAC 13-14] Butler Free Throw 1 of 2 (1 PTS)
+20111225LACGSW	58	00:40:35	[GSW] Thompson Foul: Shooting (1 PF)
+20111225LACGSW	62	00:40:33	[GSW] Udoh Rebound (Off:0 Def:1)
+20111225LACGSW	63	00:40:13	[GSW] Ellis 3pt Shot: Missed
+20111225LACGSW	64	00:40:10	[GSW] Ellis Rebound (Off:2 Def:0)
+20111225LACGSW	65	00:40:09	[GSW 16-13] Lee Slam Dunk Shot: Made (6 PTS) Assist: Ellis (2 AST)
+20111225LACGSW	66	00:39:52	[LAC 15-16] Griffin Layup Shot: Made (4 PTS) Assist: Paul (1 AST)
+20111225LACGSW	67	00:39:32	[GSW] Thompson Layup Shot: Missed
+20111225LACGSW	68	00:39:31	[LAC] Team Rebound
+20111225LACGSW	69	00:39:22	[LAC] Griffin Turnover : Bad Pass (1 TO) Steal:Rush (1 ST)
+20111225LACGSW	70	00:39:18	[GSW] Rush Foul: Offensive Charge (1 PF)
+20111225LACGSW	71	00:39:18	[GSW] Rush Turnover : Foul (1 TO)
+20111225LACGSW	74	00:39:00	[LAC] Jordan Turnover : Traveling (1 TO)
+20111225LACGSW	73	00:39:00	[LAC] Jordan Rebound (Off:2 Def:0)
+20111225LACGSW	72	00:39:00	[LAC] Griffin Jump Shot: Missed
+20111225LACGSW	75	00:38:45	[GSW] Thompson Turnover : Bad Pass (1 TO) Steal:Butler (1 ST)
+20111225LACGSW	76	00:38:40	[LAC 17-16] Griffin Layup Shot: Made (6 PTS) Assist: Butler (2 AST)
+20111225LACGSW	77	00:38:18	[GSW] Ellis Running Jump Shot: Missed
+20111225LACGSW	78	00:38:16	[GSW] Udoh Rebound (Off:1 Def:1)
+20111225LACGSW	79	00:38:13	[GSW] Udoh Layup Shot: Missed
+20111225LACGSW	80	00:38:11	[LAC] Griffin Rebound (Off:0 Def:1)
+20111225LACGSW	81	00:38:10	[LAC 19-16] Jordan Slam Dunk Shot: Made (2 PTS) Assist: Butler (3 AST)
+20111225LACGSW	82	00:38:02	[GSW] Team Timeout : Regular
+20111225LACGSW	83	00:38:02	[LAC] Jordan Substitution replaced by Gomes
+20111225LACGSW	84	00:38:02	[LAC] Butler Substitution replaced by Cook
+20111225LACGSW	85	00:38:02	[GSW] Lee Substitution replaced by Smith
+20111225LACGSW	86	00:38:02	[GSW] Ellis Substitution replaced by D. Wright
+20111225LACGSW	87	00:37:45	[GSW] Thompson Jump Shot: Missed
+20111225LACGSW	88	00:37:43	[LAC] Williams Rebound (Off:0 Def:1)
+20111225LACGSW	89	00:37:26	[LAC] Griffin Jump Shot: Missed Block: Rush (1 BLK)
+20111225LACGSW	90	00:37:26	[LAC] Team Rebound
+20111225LACGSW	91	00:37:26	[LAC] Griffin Substitution replaced by Foye
+20111225LACGSW	92	00:37:20	[LAC] Williams Jump Shot: Missed
+20111225LACGSW	93	00:37:19	[GSW] Rush Rebound (Off:0 Def:1)
+20111225LACGSW	94	00:37:02	[GSW] Thompson Jump Shot: Missed
+20111225LACGSW	95	00:36:56	[LAC] Williams Rebound (Off:0 Def:2)
+20111225LACGSW	96	00:36:50	[LAC 22-16] Foye 3pt Shot: Made (3 PTS) Assist: Paul (2 AST)
+20111225LACGSW	97	00:36:30	[GSW 18-22] Smith Running Jump Shot: Made (2 PTS)
+20111225LACGSW	101	00:36:28	[LAC 24-18] Paul Free Throw 2 of 2 (5 PTS)
+20111225LACGSW	100	00:36:28	[GSW] Smith Substitution replaced by Ellis
+20111225LACGSW	99	00:36:28	[LAC 23-18] Paul Free Throw 1 of 2 (4 PTS)
+20111225LACGSW	98	00:36:28	[GSW] Rush Foul: Personal (2 PF)
+20111225LACGSW	102	00:36:07	[LAC] Gomes Foul: Personal (1 PF)
+20111225LACGSW	103	00:36:01	[GSW 20-24] Ellis Driving Dunk Shot: Made (4 PTS)
+20111225LACGSW	106	00:36:00	End of 1st Quarter
+20111225LACGSW	105	00:36:00	[LAC] Team Rebound
+20111225LACGSW	104	00:36:00	[LAC] Gomes 3pt Shot: Missed
+20111225LACGSW	107	00:35:44	[LAC] Cook Jump Shot: Missed
+20111225LACGSW	108	00:35:44	[LAC] Gomes Rebound (Off:1 Def:0)
+20111225LACGSW	109	00:35:44	[LAC 26-20] Gomes Putback Layup Shot: Made (2 PTS)
+20111225LACGSW	110	00:35:44	[GSW] D. Wright Foul: Shooting (1 PF)
+20111225LACGSW	111	00:35:44	[GSW] D. Wright Substitution replaced by McGuire
+20111225LACGSW	112	00:35:44	[LAC] Gomes Free Throw 1 of 1 Missed
+20111225LACGSW	113	00:35:29	[GSW] Lee Rebound (Off:0 Def:3)
+20111225LACGSW	114	00:35:27	[GSW] Team Timeout : Regular
+20111225LACGSW	115	00:35:27	[GSW] Thompson Substitution replaced by Curry
+20111225LACGSW	116	00:35:23	[LAC] Williams Foul: Shooting (1 PF)
+20111225LACGSW	117	00:35:23	[GSW] Ellis Free Throw 1 of 2 Missed
+20111225LACGSW	118	00:35:23	[GSW] Team Rebound
+20111225LACGSW	119	00:35:23	[GSW] Ellis Free Throw 2 of 2 Missed
+20111225LACGSW	120	00:35:21	[LAC] Gomes Rebound (Off:1 Def:1)
+20111225LACGSW	121	00:35:08	[LAC] Cook 3pt Shot: Missed
+20111225LACGSW	122	00:35:06	[GSW] Lee Rebound (Off:0 Def:4)
+20111225LACGSW	123	00:34:51	[GSW 22-26] Lee Driving Bank shot: Made (8 PTS)
+20111225LACGSW	124	00:34:33	[LAC 28-22] Gomes Reverse Layup Shot: Made (4 PTS) Assist: Foye (1 AST)
+20111225LACGSW	125	00:34:19	[GSW] Lee Turnover : Bad Pass (1 TO) Steal:Williams (1 ST)
+20111225LACGSW	126	00:34:16	[LAC] Foye Turnover : Traveling (1 TO)
+20111225LACGSW	127	00:33:56	[GSW] Lee Turnaround Jump Shot: Missed
+20111225LACGSW	128	00:33:55	[LAC] Cook Rebound (Off:0 Def:1)
+20111225LACGSW	129	00:33:46	[LAC 30-22] Williams Running Hook Shot: Made (2 PTS)
+20111225LACGSW	130	00:33:34	[LAC] Gomes Foul: Defense 3 Second (1 PF)
+20111225LACGSW	131	00:33:34	[GSW] Curry Free Throw Technical Missed
+20111225LACGSW	132	00:33:34	[GSW] Team Rebound
+20111225LACGSW	133	00:33:25	[GSW] Rush Jump Shot: Missed
+20111225LACGSW	134	00:33:23	[GSW] Lee Rebound (Off:1 Def:4)
+20111225LACGSW	135	00:33:23	[LAC] Cook Foul: Shooting (1 PF)
+20111225LACGSW	136	00:33:23	[GSW] Lee Free Throw 1 of 2 Missed
+20111225LACGSW	137	00:33:23	[GSW] Team Rebound
+20111225LACGSW	138	00:33:23	[GSW] McGuire Substitution replaced by D. Wright
+20111225LACGSW	139	00:33:23	[GSW 23-30] Lee Free Throw 2 of 2 (9 PTS)
+20111225LACGSW	140	00:33:15	[LAC] Williams Turnover : Lost Ball (1 TO) Steal:Ellis (1 ST)
+20111225LACGSW	141	00:33:09	[GSW] Lee Turnover : Poss Lost Ball Turnover (2 TO)
+20111225LACGSW	142	00:32:44	[LAC 32-23] Gomes Layup Shot: Made (6 PTS) Assist: Billups (2 AST)
+20111225LACGSW	143	00:32:24	[GSW 26-32] Rush 3pt Shot: Made (3 PTS) Assist: Ellis (3 AST)
+20111225LACGSW	144	00:32:05	[LAC 34-26] Williams Fadeaway Jump Shot: Made (4 PTS) Assist: Billups (3 AST)
+20111225LACGSW	145	00:31:42	[GSW 28-34] Ellis Layup Shot: Made (6 PTS) Assist: Curry (2 AST)
+20111225LACGSW	146	00:31:18	[LAC] Cook Jump Shot: Missed
+20111225LACGSW	147	00:31:17	[GSW] D. Wright Rebound (Off:1 Def:2)
+20111225LACGSW	148	00:31:08	[GSW] Ellis Jump Shot: Missed
+20111225LACGSW	149	00:31:05	[LAC] Cook Rebound (Off:0 Def:2)
+20111225LACGSW	155	00:30:49	[LAC 36-28] Cook Free Throw 2 of 2 (2 PTS)
+20111225LACGSW	154	00:30:49	[GSW] Rush Substitution replaced by Biedrins
+20111225LACGSW	153	00:30:49	[LAC] Foye Substitution replaced by Butler
+20111225LACGSW	152	00:30:49	[LAC] Gomes Substitution replaced by Paul
+20111225LACGSW	151	00:30:49	[LAC 35-28] Cook Free Throw 1 of 2 (1 PTS)
+20111225LACGSW	150	00:30:49	[GSW] Ellis Foul: Shooting (1 PF)
+20111225LACGSW	156	00:30:32	[GSW] Curry Jump Shot: Missed
+20111225LACGSW	157	00:30:30	[LAC] Cook Rebound (Off:0 Def:3)
+20111225LACGSW	158	00:30:21	[LAC] Billups 3pt Shot: Missed
+20111225LACGSW	159	00:30:18	[GSW] Curry Rebound (Off:1 Def:1)
+20111225LACGSW	160	00:30:12	[GSW 30-36] Ellis Driving Finger Roll Layup Shot: Made (8 PTS)
+20111225LACGSW	161	00:30:00	[LAC] Billups 3pt Shot: Missed
+20111225LACGSW	162	00:29:59	[GSW] Lee Rebound (Off:1 Def:5)
+20111225LACGSW	163	00:29:51	[GSW] Lee Turnover : Bad Pass (3 TO)
+20111225LACGSW	165	00:29:51	[LAC] Williams Substitution replaced by Griffin
+20111225LACGSW	166	00:29:51	[LAC] Cook Substitution replaced by Jordan
+20111225LACGSW	167	00:29:38	[LAC] Billups Jump Shot: Missed
+20111225LACGSW	168	00:29:36	[GSW] Biedrins Rebound (Off:2 Def:3)
+20111225LACGSW	169	00:29:24	[GSW] Ellis Turnover : Bad Pass (2 TO) Steal:Paul (1 ST)
+20111225LACGSW	170	00:29:17	[LAC] Jordan Jump Shot: Missed Block: Biedrins (2 BLK)
+20111225LACGSW	171	00:29:14	[LAC] Paul Rebound (Off:1 Def:0)
+20111225LACGSW	172	00:29:12	[LAC] Paul Layup Shot: Missed
+20111225LACGSW	173	00:29:10	[GSW] Biedrins Rebound (Off:2 Def:4)
+20111225LACGSW	174	00:29:02	[GSW 32-36] Lee Driving Layup Shot: Made (11 PTS) Assist: Ellis (4 AST)
+20111225LACGSW	175	00:28:47	[LAC] Butler Jump Shot: Missed
+20111225LACGSW	176	00:28:46	[GSW] Lee Rebound (Off:1 Def:6)
+20111225LACGSW	177	00:28:39	[GSW 35-36] D. Wright 3pt Shot: Made (3 PTS) Assist: Curry (3 AST)
+20111225LACGSW	178	00:28:19	[GSW] Lee Foul: Personal (2 PF)
+20111225LACGSW	179	00:28:12	[LAC] Billups 3pt Shot: Missed
+20111225LACGSW	180	00:28:10	[LAC] Griffin Rebound (Off:1 Def:1)
+20111225LACGSW	183	00:28:08	[LAC] Griffin Foul: Loose Ball (1 PF)
+20111225LACGSW	182	00:28:08	[GSW] Team Rebound
+20111225LACGSW	181	00:28:08	[LAC] Griffin Layup Shot: Missed
+20111225LACGSW	184	00:27:59	[GSW] Ellis Jump Shot: Missed
+20111225LACGSW	185	00:27:57	[LAC] Butler Rebound (Off:0 Def:2)
+20111225LACGSW	186	00:27:51	[LAC] Billups Turnover : Bad Pass (1 TO) Steal:Curry (2 ST)
+20111225LACGSW	187	00:27:45	[GSW 37-36] Ellis Driving Finger Roll Layup Shot: Made (10 PTS)
+20111225LACGSW	188	00:27:34	[LAC] Butler Layup Shot: Missed Block: Biedrins (3 BLK)
+20111225LACGSW	189	00:27:32	[GSW] Curry Rebound (Off:1 Def:2)
+20111225LACGSW	190	00:27:28	[GSW] D. Wright 3pt Shot: Missed
+20111225LACGSW	191	00:27:25	[GSW] Curry Rebound (Off:2 Def:2)
+20111225LACGSW	192	00:27:22	[GSW] Curry 3pt Shot: Missed
+20111225LACGSW	193	00:27:20	[LAC] Butler Rebound (Off:0 Def:3)
+20111225LACGSW	194	00:27:06	[LAC] Billups 3pt Shot: Missed
+20111225LACGSW	200	00:27:05	[LAC] Griffin Free Throw 2 of 2 Missed
+20111225LACGSW	199	00:27:05	[GSW] Biedrins Substitution replaced by Brown
+20111225LACGSW	198	00:27:05	[LAC] Team Rebound
+20111225LACGSW	197	00:27:05	[LAC] Griffin Free Throw 1 of 2 Missed
+20111225LACGSW	196	00:27:05	[GSW] Biedrins Foul: Shooting (2 PF)
+20111225LACGSW	195	00:27:05	[LAC] Griffin Rebound (Off:2 Def:1)
+20111225LACGSW	201	00:27:04	[GSW] Lee Rebound (Off:1 Def:7)
+20111225LACGSW	202	00:26:56	[GSW] Ellis Turnover : Bad Pass (3 TO) Steal:Paul (2 ST)
+20111225LACGSW	203	00:26:51	[LAC] Paul Layup Shot: Missed Block: Lee (1 BLK)
+20111225LACGSW	212	00:26:49	[LAC 37-37] Griffin Free Throw 2 of 2 (7 PTS)
+20111225LACGSW	211	00:26:49	[LAC] Team Rebound
+20111225LACGSW	210	00:26:49	[LAC] Griffin Free Throw 1 of 2 Missed
+20111225LACGSW	209	00:26:49	[GSW] Lee Substitution replaced by Udoh
+20111225LACGSW	208	00:26:49	[LAC] Team Timeout : Regular
+20111225LACGSW	207	00:26:49	[GSW] Lee Foul: Loose Ball (3 PF)
+20111225LACGSW	206	00:26:49	[LAC] Team Rebound
+20111225LACGSW	205	00:26:49	[LAC] Griffin Layup Shot: Missed
+20111225LACGSW	204	00:26:49	[LAC] Griffin Rebound (Off:3 Def:1)
+20111225LACGSW	213	00:26:26	[GSW] Ellis 3pt Shot: Missed
+20111225LACGSW	214	00:26:25	[LAC] Billups Rebound (Off:0 Def:2)
+20111225LACGSW	215	00:26:16	[LAC 39-37] Billups Jump Shot: Made (9 PTS)
+20111225LACGSW	216	00:25:57	[GSW] Ellis Layup Shot: Missed Block: Jordan (4 BLK)
+20111225LACGSW	221	00:25:55	[GSW 40-39] D. Wright Free Throw 3 of 3 (6 PTS)
+20111225LACGSW	220	00:25:55	[GSW 39-39] D. Wright Free Throw 2 of 3 (5 PTS)
+20111225LACGSW	219	00:25:55	[GSW 38-39] D. Wright Free Throw 1 of 3 (4 PTS)
+20111225LACGSW	218	00:25:55	[LAC] Griffin Foul: Shooting (2 PF)
+20111225LACGSW	217	00:25:55	[GSW] D. Wright Rebound (Off:2 Def:2)
+20111225LACGSW	222	00:25:32	[LAC] Griffin Jump Shot: Missed
+20111225LACGSW	223	00:25:30	[GSW] Curry Rebound (Off:2 Def:3)
+20111225LACGSW	224	00:25:26	[GSW] Curry Jump Shot: Missed Block: Jordan (5 BLK)
+20111225LACGSW	229	00:25:23	[GSW 42-39] Ellis Free Throw 2 of 2 (12 PTS)
+20111225LACGSW	228	00:25:23	[LAC] Griffin Substitution replaced by Gomes
+20111225LACGSW	227	00:25:23	[GSW 41-39] Ellis Free Throw 1 of 2 (11 PTS)
+20111225LACGSW	226	00:25:23	[LAC] Jordan Foul: Shooting (1 PF)
+20111225LACGSW	225	00:25:23	[GSW] D. Wright Rebound (Off:3 Def:2)
+20111225LACGSW	230	00:25:06	[LAC] Jordan Turnover : 3 Second Violation (2 TO)
+20111225LACGSW	236	00:24:56	[GSW 43-39] Brown Free Throw 2 of 2 (1 PTS)
+20111225LACGSW	235	00:24:56	[GSW] Curry Substitution replaced by Thompson
+20111225LACGSW	234	00:24:56	[GSW] Udoh Substitution replaced by McGuire
+20111225LACGSW	233	00:24:56	[GSW] Team Rebound
+20111225LACGSW	232	00:24:56	[GSW] Brown Free Throw 1 of 2 Missed
+20111225LACGSW	231	00:24:56	[LAC] Paul Foul: Shooting (1 PF)
+20111225LACGSW	242	00:24:41	[LAC] Jordan Free Throw 2 of 2 Missed
+20111225LACGSW	241	00:24:41	[LAC] Team Rebound
+20111225LACGSW	240	00:24:41	[LAC] Jordan Free Throw 1 of 2 Missed
+20111225LACGSW	239	00:24:41	[GSW] Thompson Foul: Loose Ball (2 PF)
+20111225LACGSW	238	00:24:41	[LAC] Team Rebound
+20111225LACGSW	237	00:24:41	[LAC] Paul 3pt Shot: Missed
+20111225LACGSW	243	00:24:39	[GSW] D. Wright Rebound (Off:3 Def:3)
+20111225LACGSW	244	00:24:32	[GSW] D. Wright 3pt Shot: Missed
+20111225LACGSW	245	00:24:30	[LAC] Gomes Rebound (Off:1 Def:2)
+20111225LACGSW	248	00:24:12	[LAC 41-43] Paul Free Throw 2 of 2 (7 PTS)
+20111225LACGSW	247	00:24:12	[LAC 40-43] Paul Free Throw 1 of 2 (6 PTS)
+20111225LACGSW	246	00:24:12	[GSW] Brown Foul: Shooting (1 PF)
+20111225LACGSW	249	00:24:00	[GSW] Ellis Fadeaway Jump Shot: Missed
+20111225LACGSW	250	00:24:00	[GSW] Team Rebound
+20111225LACGSW	251	00:24:00	End of 2nd Quarter
+20111225LACGSW	252	00:23:37	[LAC] Butler Jump Shot: Missed
+20111225LACGSW	253	00:23:36	[LAC] Jordan Rebound (Off:3 Def:0)
+20111225LACGSW	254	00:23:32	[LAC] Billups 3pt Shot: Missed
+20111225LACGSW	255	00:23:31	[GSW] Biedrins Rebound (Off:2 Def:5)
+20111225LACGSW	256	00:23:13	[GSW] Curry 3pt Shot: Missed
+20111225LACGSW	257	00:23:12	[GSW] Lee Rebound (Off:2 Def:7)
+20111225LACGSW	258	00:23:10	[GSW] Lee Jump Shot: Missed Block: Jordan (6 BLK)
+20111225LACGSW	259	00:23:08	[LAC] Jordan Rebound (Off:3 Def:1)
+20111225LACGSW	260	00:22:57	[LAC 43-43] Griffin Slam Dunk Shot: Made (9 PTS) Assist: Billups (4 AST)
+20111225LACGSW	261	00:22:38	[GSW] Lee Jump Shot: Missed
+20111225LACGSW	262	00:22:36	[LAC] Butler Rebound (Off:0 Def:4)
+20111225LACGSW	263	00:22:22	[LAC] Griffin Jump Shot: Missed
+20111225LACGSW	264	00:22:20	[GSW] Biedrins Rebound (Off:2 Def:6)
+20111225LACGSW	265	00:22:15	[GSW] Curry Jump Shot: Missed
+20111225LACGSW	266	00:22:14	[LAC] Butler Rebound (Off:0 Def:5)
+20111225LACGSW	267	00:22:02	[LAC 45-43] Billups Running Jump Shot: Made (11 PTS)
+20111225LACGSW	268	00:21:49	[LAC] Jordan Foul: Shooting (2 PF)
+20111225LACGSW	269	00:21:49	[GSW 44-45] D. Wright Free Throw 1 of 2 (7 PTS)
+20111225LACGSW	270	00:21:49	[GSW 45-45] D. Wright Free Throw 2 of 2 (8 PTS)
+20111225LACGSW	271	00:21:32	[LAC 47-45] Griffin Jump Shot: Made (11 PTS) Assist: Paul (3 AST)
+20111225LACGSW	272	00:21:11	[GSW] Curry Turnover : Bad Pass (1 TO) Steal:Griffin (2 ST)
+20111225LACGSW	273	00:20:54	[GSW] Biedrins Foul: Personal (3 PF)
+20111225LACGSW	274	00:20:45	[LAC 49-45] Butler Jump Shot: Made (3 PTS) Assist: Griffin (1 AST)
+20111225LACGSW	275	00:20:22	[GSW 47-49] Lee Turnaround Hook Shot: Made (13 PTS)
+20111225LACGSW	276	00:19:58	[LAC 51-47] Griffin Turnaround Hook Shot: Made (13 PTS) Assist: Paul (4 AST)
+20111225LACGSW	277	00:19:45	[LAC] Paul Foul: Personal (2 PF)
+20111225LACGSW	278	00:19:38	[GSW 49-51] Biedrins Slam Dunk Shot: Made (8 PTS) Assist: Ellis (5 AST)
+20111225LACGSW	279	00:19:19	[LAC] Butler 3pt Shot: Missed
+20111225LACGSW	281	00:19:18	[LAC 53-49] Griffin Putback Layup Shot: Made (15 PTS)
+20111225LACGSW	280	00:19:18	[LAC] Griffin Rebound (Off:4 Def:1)
+20111225LACGSW	282	00:19:05	[GSW] Lee Jump Shot: Missed
+20111225LACGSW	283	00:19:03	[GSW] Lee Rebound (Off:3 Def:7)
+20111225LACGSW	284	00:18:58	[GSW] D. Wright 3pt Shot: Missed
+20111225LACGSW	285	00:18:57	[LAC] Griffin Rebound (Off:4 Def:2)
+20111225LACGSW	288	00:18:49	[LAC 56-49] Butler Free Throw 1 of 1 (6 PTS)
+20111225LACGSW	287	00:18:49	[GSW] Biedrins Foul: Shooting (4 PF)
+20111225LACGSW	286	00:18:49	[LAC 55-49] Butler Layup Shot: Made (5 PTS) Assist: Paul (5 AST)
+20111225LACGSW	289	00:18:26	[GSW] Ellis 3pt Shot: Missed
+20111225LACGSW	290	00:18:24	[GSW] Lee Rebound (Off:4 Def:7)
+20111225LACGSW	291	00:18:21	[GSW 51-56] Lee Slam Dunk Shot: Made (15 PTS) Assist: Ellis (6 AST)
+20111225LACGSW	292	00:18:09	[LAC 59-51] Billups 3pt Shot: Made (14 PTS) Assist: Butler (4 AST)
+20111225LACGSW	295	00:18:07	[GSW] D. Wright Substitution replaced by Rush
+20111225LACGSW	294	00:18:07	[GSW] Biedrins Substitution replaced by Brown
+20111225LACGSW	293	00:18:07	[GSW] Team Timeout : Regular
+20111225LACGSW	296	00:17:54	[GSW] Lee Jump Shot: Missed
+20111225LACGSW	297	00:17:51	[GSW] Brown Rebound (Off:1 Def:0)
+20111225LACGSW	298	00:17:51	[GSW] Brown Tip Shot: Missed
+20111225LACGSW	299	00:17:50	[LAC] Butler Rebound (Off:0 Def:6)
+20111225LACGSW	300	00:17:44	[GSW] Brown Foul: Personal (2 PF)
+20111225LACGSW	305	00:17:36	[LAC 60-51] Griffin Free Throw 2 of 2 (16 PTS)
+20111225LACGSW	304	00:17:36	[LAC] Billups Substitution replaced by Williams
+20111225LACGSW	303	00:17:36	[LAC] Team Rebound
+20111225LACGSW	302	00:17:36	[LAC] Griffin Free Throw 1 of 2 Missed
+20111225LACGSW	301	00:17:36	[GSW] Ellis Foul: Personal (2 PF)
+20111225LACGSW	306	00:17:16	[GSW 53-60] Curry Running Jump Shot: Made (4 PTS)
+20111225LACGSW	307	00:16:55	[LAC 63-53] Butler 3pt Shot: Made (9 PTS) Assist: Williams (1 AST)
+20111225LACGSW	308	00:16:41	[GSW 55-63] Rush Jump Bank Shot: Made (5 PTS)
+20111225LACGSW	310	00:16:31	[LAC] Griffin Turnover : Foul (2 TO)
+20111225LACGSW	309	00:16:31	[LAC] Griffin Foul: Offensive Charge (3 PF)
+20111225LACGSW	311	00:16:22	[GSW] Curry Turnover : Lost Ball (2 TO) Steal:Williams (2 ST)
+20111225LACGSW	315	00:16:21	[LAC] Paul Free Throw 2 of 2 Missed
+20111225LACGSW	314	00:16:21	[GSW] Curry Substitution replaced by Thompson
+20111225LACGSW	313	00:16:21	[LAC 64-55] Paul Free Throw 1 of 2 (8 PTS)
+20111225LACGSW	312	00:16:21	[GSW] Curry Foul: Personal (3 PF)
+20111225LACGSW	316	00:16:19	[GSW] Rush Rebound (Off:0 Def:2)
+20111225LACGSW	317	00:16:09	[GSW] Thompson 3pt Shot: Missed
+20111225LACGSW	318	00:16:06	[LAC] Butler Rebound (Off:0 Def:7)
+20111225LACGSW	322	00:16:01	[LAC 65-55] Jordan Free Throw 2 of 2 (3 PTS)
+20111225LACGSW	321	00:16:01	[LAC] Team Rebound
+20111225LACGSW	320	00:16:01	[LAC] Jordan Free Throw 1 of 2 Missed
+20111225LACGSW	319	00:16:01	[GSW] Brown Foul: Personal (3 PF)
+20111225LACGSW	323	00:15:49	[LAC] Paul Foul: Personal (3 PF)
+20111225LACGSW	324	00:15:49	[LAC] Griffin Substitution replaced by Cook
+20111225LACGSW	325	00:15:49	[GSW] Brown Substitution replaced by Smith
+20111225LACGSW	326	00:15:38	[GSW 57-65] Smith Running Bank shot: Made (4 PTS)
+20111225LACGSW	330	00:15:33	[LAC] Jordan Free Throw 2 of 2 Missed
+20111225LACGSW	329	00:15:33	[LAC] Team Rebound
+20111225LACGSW	328	00:15:33	[LAC] Jordan Free Throw 1 of 2 Missed
+20111225LACGSW	327	00:15:33	[GSW] Smith Foul: Personal (1 PF)
+20111225LACGSW	336	00:15:31	[LAC 66-57] Jordan Free Throw 2 of 2 (4 PTS)
+20111225LACGSW	335	00:15:31	[GSW] Lee Substitution replaced by Udoh
+20111225LACGSW	334	00:15:31	[LAC] Team Rebound
+20111225LACGSW	333	00:15:31	[LAC] Jordan Free Throw 1 of 2 Missed
+20111225LACGSW	332	00:15:31	[GSW] Smith Foul: Personal (2 PF)
+20111225LACGSW	331	00:15:31	[LAC] Cook Rebound (Off:1 Def:3)
+20111225LACGSW	337	00:15:21	[GSW] Smith Driving Jump shot: Missed Block: Jordan (7 BLK)
+20111225LACGSW	338	00:15:19	[LAC] Williams Rebound (Off:0 Def:3)
+20111225LACGSW	342	00:15:12	[LAC 67-57] Jordan Free Throw 2 of 2 (5 PTS)
+20111225LACGSW	341	00:15:12	[LAC] Team Rebound
+20111225LACGSW	340	00:15:12	[LAC] Jordan Free Throw 1 of 2 Missed
+20111225LACGSW	339	00:15:12	[GSW] Udoh Foul: Personal (1 PF)
+20111225LACGSW	343	00:14:55	[GSW 60-67] Smith 3pt Shot: Made (7 PTS) Assist: Ellis (7 AST)
+20111225LACGSW	349	00:14:48	[LAC] Jordan Substitution replaced by Gomes
+20111225LACGSW	348	00:14:48	[GSW] Team Rebound
+20111225LACGSW	347	00:14:48	[LAC] Jordan Free Throw 2 of 2 Missed
+20111225LACGSW	346	00:14:48	[LAC 68-60] Jordan Free Throw 1 of 2 (6 PTS)
+20111225LACGSW	345	00:14:48	[LAC] Team Timeout : Regular
+20111225LACGSW	344	00:14:48	[GSW] Rush Foul: Personal (3 PF)
+20111225LACGSW	350	00:14:28	[GSW] Ellis 3pt Shot: Missed
+20111225LACGSW	351	00:14:26	[LAC] Cook Rebound (Off:1 Def:4)
+20111225LACGSW	352	00:14:08	[LAC] Butler Jump Shot: Missed
+20111225LACGSW	353	00:14:06	[GSW] Rush Rebound (Off:0 Def:3)
+20111225LACGSW	354	00:13:58	[GSW 63-68] Thompson 3pt Shot: Made (3 PTS) Assist: Ellis (8 AST)
+20111225LACGSW	355	00:13:37	[LAC 71-63] Cook 3pt Shot: Made (5 PTS) Assist: Williams (2 AST)
+20111225LACGSW	356	00:13:19	[GSW 65-71] Ellis Driving Finger Roll Layup Shot: Made (14 PTS)
+20111225LACGSW	357	00:13:08	[LAC] Williams Jump Shot: Missed
+20111225LACGSW	358	00:13:08	[GSW] Thompson Rebound (Off:0 Def:1)
+20111225LACGSW	362	00:13:01	[GSW 67-71] Rush Free Throw 2 of 2 (7 PTS)
+20111225LACGSW	361	00:13:01	[LAC] Butler Substitution replaced by Foye
+20111225LACGSW	360	00:13:01	[GSW 66-71] Rush Free Throw 1 of 2 (6 PTS)
+20111225LACGSW	359	00:13:01	[LAC] Cook Foul: Shooting Block (2 PF)
+20111225LACGSW	363	00:12:44	[LAC 73-67] Paul Step Back Jump shot: Made (10 PTS)
+20111225LACGSW	367	00:12:40	[GSW 68-73] Udoh Free Throw 2 of 2 (1 PTS)
+20111225LACGSW	366	00:12:40	[GSW] Team Rebound
+20111225LACGSW	365	00:12:40	[GSW] Udoh Free Throw 1 of 2 Missed
+20111225LACGSW	364	00:12:40	[LAC] Cook Foul: Personal (3 PF)
+20111225LACGSW	368	00:12:29	[LAC] Paul Foul: Offensive (4 PF)
+20111225LACGSW	369	00:12:29	[LAC] Paul Turnover : Foul (2 TO)
+20111225LACGSW	370	00:12:29	[LAC] Paul Substitution replaced by Billups
+20111225LACGSW	374	00:12:11	[LAC] Gomes Substitution replaced by Paul
+20111225LACGSW	373	00:12:11	[GSW] Udoh Substitution replaced by McGuire
+20111225LACGSW	372	00:12:11	[GSW] Ellis Turnover : Foul (4 TO)
+20111225LACGSW	371	00:12:11	[GSW] Ellis Foul: Offensive Charge (3 PF)
+20111225LACGSW	375	00:12:00	[LAC 75-68] Paul Pullup Jump shot: Made (12 PTS)
+20111225LACGSW	376	00:12:00	End of 3rd Quarter
+20111225LACGSW	377	00:11:46	[GSW 70-75] Lee Running Hook Shot: Made (17 PTS)
+20111225LACGSW	378	00:11:32	[LAC 78-70] Cook 3pt Shot: Made (8 PTS) Assist: Williams (3 AST)
+20111225LACGSW	380	00:11:31	[LAC] Gomes Substitution replaced by Griffin
+20111225LACGSW	379	00:11:31	[GSW] Team Timeout : Short
+20111225LACGSW	381	00:11:14	[LAC] Cook Foul: Shooting Block (4 PF)
+20111225LACGSW	382	00:11:14	[GSW 71-78] Thompson Free Throw 1 of 2 (4 PTS)
+20111225LACGSW	383	00:11:14	[GSW 72-78] Thompson Free Throw 2 of 2 (5 PTS)
+20111225LACGSW	384	00:11:04	[LAC] Williams 3pt Shot: Missed
+20111225LACGSW	385	00:11:03	[GSW] D. Wright Rebound (Off:3 Def:4)
+20111225LACGSW	386	00:10:52	[GSW] D. Wright 3pt Shot: Missed
+20111225LACGSW	387	00:10:51	[LAC] Billups Rebound (Off:0 Def:3)
+20111225LACGSW	388	00:10:43	[LAC] Billups Jump Shot: Missed Block: Rush (2 BLK)
+20111225LACGSW	389	00:10:39	[LAC] Foye Rebound (Off:1 Def:0)
+20111225LACGSW	390	00:10:33	[LAC] Billups Fadeaway Jump Shot: Missed
+20111225LACGSW	391	00:10:32	[GSW] Lee Rebound (Off:4 Def:8)
+20111225LACGSW	392	00:10:21	[GSW 74-78] Lee Running Layup Shot: Made (19 PTS) Assist: Curry (4 AST)
+20111225LACGSW	393	00:09:54	[LAC] Billups 3pt Shot: Missed
+20111225LACGSW	394	00:09:52	[LAC] Cook Rebound (Off:2 Def:4)
+20111225LACGSW	395	00:09:50	[LAC] Cook Layup Shot: Missed
+20111225LACGSW	396	00:09:47	[GSW] D. Wright Rebound (Off:3 Def:5)
+20111225LACGSW	397	00:09:47	[LAC] Cook Foul: Loose Ball (5 PF)
+20111225LACGSW	398	00:09:35	[GSW 77-78] Rush 3pt Shot: Made (10 PTS) Assist: D. Wright (1 AST)
+20111225LACGSW	399	00:09:15	[LAC] Cook 3pt Shot: Missed
+20111225LACGSW	400	00:09:14	[GSW] Thompson Rebound (Off:0 Def:2)
+20111225LACGSW	401	00:09:05	[GSW] Lee Foul: Offensive Charge (4 PF)
+20111225LACGSW	402	00:09:05	[GSW] Lee Turnover : Foul (4 TO)
+20111225LACGSW	403	00:08:52	[LAC 80-77] Williams Floating Jump shot: Made (6 PTS)
+20111225LACGSW	404	00:08:34	[GSW] Thompson 3pt Shot: Missed
+20111225LACGSW	405	00:08:33	[GSW] D. Wright Rebound (Off:4 Def:5)
+20111225LACGSW	406	00:08:29	[GSW] Curry 3pt Shot: Missed
+20111225LACGSW	407	00:08:28	[GSW] Thompson Rebound (Off:1 Def:2)
+20111225LACGSW	408	00:08:28	[GSW 79-80] Thompson Tip Shot: Made (7 PTS)
+20111225LACGSW	409	00:08:15	[GSW] Curry Foul: Personal (4 PF)
+20111225LACGSW	411	00:08:15	[LAC] Cook Substitution replaced by Butler
+20111225LACGSW	412	00:08:15	[LAC] Foye Substitution replaced by Gomes
+20111225LACGSW	413	00:08:15	[GSW] Curry Substitution replaced by Ellis
+20111225LACGSW	418	00:08:08	[GSW] D. Wright Substitution replaced by Udoh
+20111225LACGSW	417	00:08:08	[GSW] Lee Substitution replaced by Biedrins
+20111225LACGSW	416	00:08:08	[LAC] Gomes Substitution replaced by Jordan
+20111225LACGSW	415	00:08:08	[LAC 81-79] Billups Free Throw 1 of 2 (15 PTS)
+20111225LACGSW	414	00:08:08	[GSW] Lee Foul: Shooting (5 PF)
+20111225LACGSW	419	00:08:08	[LAC 82-79] Billups Free Throw 2 of 2 (16 PTS)
+20111225LACGSW	420	00:07:52	[GSW] Rush Jump Shot: Missed Block: Jordan (8 BLK)
+20111225LACGSW	421	00:07:50	[LAC] Jordan Rebound (Off:3 Def:2)
+20111225LACGSW	422	00:07:42	[LAC] Griffin Turnover : Poss Lost Ball Turnover (3 TO)
+20111225LACGSW	423	00:07:23	[GSW] Ellis Jump Shot: Missed
+20111225LACGSW	424	00:07:22	[LAC] Butler Rebound (Off:0 Def:8)
+20111225LACGSW	425	00:07:14	[LAC] Williams Jump Shot: Missed
+20111225LACGSW	426	00:07:11	[GSW] Udoh Rebound (Off:1 Def:2)
+20111225LACGSW	427	00:06:51	[GSW 81-82] Biedrins Running Hook Shot: Made (10 PTS) Assist: Thompson (1 AST)
+20111225LACGSW	428	00:06:25	[LAC 84-81] Williams Fadeaway Jump Shot: Made (8 PTS)
+20111225LACGSW	429	00:06:08	[GSW] Thompson Foul: Offensive (3 PF)
+20111225LACGSW	430	00:06:08	[GSW] Thompson Turnover : Foul (2 TO)
+20111225LACGSW	431	00:06:08	[LAC] Williams Substitution replaced by Paul
+20111225LACGSW	432	00:05:53	[LAC 87-81] Billups 3pt Shot: Made (19 PTS) Assist: Paul (6 AST)
+20111225LACGSW	438	00:05:37	[GSW 82-87] Ellis Free Throw 2 of 2 (15 PTS)
+20111225LACGSW	437	00:05:37	[GSW] Team Rebound
+20111225LACGSW	436	00:05:37	[GSW] Ellis Free Throw 1 of 2 Missed
+20111225LACGSW	435	00:05:37	[GSW] Udoh Substitution replaced by Curry
+20111225LACGSW	434	00:05:37	[GSW] Team Timeout : Regular
+20111225LACGSW	433	00:05:37	[LAC] Billups Foul: Personal (2 PF)
+20111225LACGSW	439	00:05:23	[LAC 89-82] Butler Jump Shot: Made (11 PTS) Assist: Paul (7 AST)
+20111225LACGSW	440	00:05:09	[GSW] Curry Jump Shot: Missed
+20111225LACGSW	441	00:05:07	[LAC] Paul Rebound (Off:1 Def:1)
+20111225LACGSW	442	00:05:01	[GSW] Rush Foul: Shooting (4 PF)
+20111225LACGSW	443	00:05:01	[LAC 90-82] Billups Free Throw 1 of 2 (20 PTS)
+20111225LACGSW	444	00:05:01	[LAC 91-82] Billups Free Throw 2 of 2 (21 PTS)
+20111225LACGSW	445	00:04:52	[GSW] Curry Turnover : Bad Pass (3 TO) Steal:Butler (2 ST)
+20111225LACGSW	446	00:04:47	[LAC] Billups 3pt Shot: Missed
+20111225LACGSW	447	00:04:43	[GSW] Ellis Rebound (Off:2 Def:1)
+20111225LACGSW	448	00:04:35	[GSW] Thompson Running Jump Shot: Missed
+20111225LACGSW	449	00:04:34	[LAC] Billups Rebound (Off:0 Def:4)
+20111225LACGSW	450	00:04:17	[LAC] Griffin Jump Shot: Missed
+20111225LACGSW	451	00:04:15	[LAC] Griffin Rebound (Off:5 Def:2)
+20111225LACGSW	452	00:04:13	[LAC] Griffin Jump Shot: Missed
+20111225LACGSW	453	00:04:11	[GSW] Ellis Rebound (Off:2 Def:2)
+20111225LACGSW	458	00:04:04	[GSW 84-91] Rush Free Throw 2 of 2 (12 PTS)
+20111225LACGSW	457	00:04:04	[GSW] Biedrins Substitution replaced by Brown
+20111225LACGSW	456	00:04:04	[GSW] Thompson Substitution replaced by Lee
+20111225LACGSW	455	00:04:04	[GSW 83-91] Rush Free Throw 1 of 2 (11 PTS)
+20111225LACGSW	454	00:04:04	[LAC] Griffin Foul: Personal (4 PF)
+20111225LACGSW	459	00:03:44	[LAC 93-84] Paul Pullup Jump shot: Made (14 PTS)
+20111225LACGSW	460	00:03:34	[GSW] Curry Turnover : Bad Pass (4 TO) Steal:Butler (3 ST)
+20111225LACGSW	461	00:03:18	[LAC 95-84] Paul Fadeaway Jump Shot: Made (16 PTS)
+20111225LACGSW	462	00:03:06	[GSW] Curry Jump Shot: Missed
+20111225LACGSW	463	00:03:04	[LAC] Billups Rebound (Off:0 Def:5)
+20111225LACGSW	467	00:02:38	[LAC] Jordan Substitution replaced by Gomes
+20111225LACGSW	466	00:02:38	[GSW] Brown Substitution replaced by D. Wright
+20111225LACGSW	465	00:02:38	[GSW] Team Timeout : Regular
+20111225LACGSW	464	00:02:38	[LAC 97-84] Paul Step Back Jump shot: Made (18 PTS)
+20111225LACGSW	468	00:02:32	[GSW] Curry Turnover : Bad Pass (5 TO)
+20111225LACGSW	469	00:02:13	[LAC 99-84] Griffin Jump Shot: Made (18 PTS) Assist: Paul (8 AST)
+20111225LACGSW	470	00:01:50	[GSW] Curry Jump Shot: Missed
+20111225LACGSW	471	00:01:47	[LAC] Gomes Rebound (Off:1 Def:3)
+20111225LACGSW	472	00:01:32	[LAC 101-84] Griffin Jump Bank Shot: Made (20 PTS) Assist: Paul (9 AST)
+20111225LACGSW	473	00:01:15	[GSW] Lee Jump Bank Shot: Missed
+20111225LACGSW	474	00:01:13	[LAC] Butler Rebound (Off:0 Def:9)
+20111225LACGSW	475	00:00:58	[GSW] Ellis Foul: Personal (4 PF)
+20111225LACGSW	476	00:00:58	[GSW] Curry Substitution replaced by Jenkins
+20111225LACGSW	477	00:00:50	[LAC 103-84] Paul Driving Layup Shot: Made (20 PTS)
+20111225LACGSW	478	00:00:39	[GSW 86-103] Lee Reverse Layup Shot: Made (21 PTS) Assist: Jenkins (1 AST)
+20111225LACGSW	482	00:00:21	[LAC 105-86] Griffin Free Throw 2 of 2 (22 PTS)
+20111225LACGSW	481	00:00:21	[LAC 104-86] Griffin Free Throw 1 of 2 (21 PTS)
+20111225LACGSW	480	00:00:21	[GSW] Lee Substitution replaced by Tyler
+20111225LACGSW	479	00:00:21	[GSW] Lee Foul: Shooting (6 PF)
+20111225LACGSW	483	00:00:06	[GSW] Rush Running Jump Shot: Missed
+20111225LACGSW	484	00:00:04	[LAC] Butler Rebound (Off:0 Def:10)
+20111225LACGSW	485	00:00:00	End of 4th Quarter

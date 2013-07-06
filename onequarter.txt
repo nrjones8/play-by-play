@@ -1,0 +1,126 @@
+GameID	LineNumber	TimeRemaining	Entry
+20111225BOSNYK	1	00:48:00	Jump Ball Chandler vs O'Neal (Rondo gains possession)
+20111225BOSNYK	2	00:47:41	[BOS] Allen Turnover : Lost Ball (1 TO) Steal:Fields (1 ST)
+20111225BOSNYK	3	00:47:18	[NYK] Anthony Turnover : Bad Pass (1 TO) Steal:Rondo (1 ST)
+20111225BOSNYK	4	00:47:10	[NYK] Douglas Foul: Shooting (1 PF)
+20111225BOSNYK	5	00:47:10	[BOS 1-0] Rondo Free Throw 1 of 2 (1 PTS)
+20111225BOSNYK	6	00:47:10	[BOS 2-0] Rondo Free Throw 2 of 2 (2 PTS)
+20111225BOSNYK	7	00:46:57	[NYK 3-2] Douglas 3pt Shot: Made (3 PTS) Assist: Fields (1 AST)
+20111225BOSNYK	8	00:46:34	[BOS] Garnett Jump Shot: Missed
+20111225BOSNYK	9	00:46:32	[NYK] Anthony Rebound (Off:0 Def:1)
+20111225BOSNYK	10	00:46:25	[BOS] O'Neal Foul: Shooting (1 PF)
+20111225BOSNYK	11	00:46:25	[NYK 4-2] Chandler Free Throw 1 of 2 (1 PTS)
+20111225BOSNYK	12	00:46:25	[NYK] Chandler Free Throw 2 of 2 Missed
+20111225BOSNYK	13	00:46:23	[NYK] Anthony Rebound (Off:1 Def:1)
+20111225BOSNYK	14	00:46:13	[NYK 6-2] Douglas Running Jump Shot: Made (5 PTS)
+20111225BOSNYK	15	00:46:03	[BOS 4-6] Garnett Layup Shot: Made (2 PTS) Assist: Rondo (1 AST)
+20111225BOSNYK	16	00:45:46	[NYK] Anthony Jump Shot: Missed
+20111225BOSNYK	17	00:45:45	[BOS] O'Neal Rebound (Off:0 Def:1)
+20111225BOSNYK	18	00:45:37	[BOS] Rondo Jump Shot: Missed
+20111225BOSNYK	19	00:45:35	[NYK] Anthony Rebound (Off:1 Def:2)
+20111225BOSNYK	20	00:45:28	[NYK] Douglas Turnover : Bad Pass (1 TO) Steal:Rondo (2 ST)
+20111225BOSNYK	24	00:45:25	[BOS] Rondo Free Throw 2 of 2 Missed
+20111225BOSNYK	23	00:45:25	[NYK] Chandler Violation:Lane
+20111225BOSNYK	22	00:45:25	[BOS 5-6] Rondo Free Throw 1 of 2 (3 PTS)
+20111225BOSNYK	21	00:45:25	[NYK] Anthony Foul: Shooting (1 PF)
+20111225BOSNYK	25	00:45:24	[NYK] Stoudemire Rebound (Off:0 Def:1)
+20111225BOSNYK	26	00:45:07	[NYK 9-5] Fields 3pt Shot: Made (3 PTS) Assist: Anthony (1 AST)
+20111225BOSNYK	27	00:44:53	[BOS 7-9] Rondo Driving Layup Shot: Made (5 PTS)
+20111225BOSNYK	28	00:44:37	[NYK 11-7] Stoudemire Jump Shot: Made (2 PTS) Assist: Douglas (1 AST)
+20111225BOSNYK	29	00:44:21	[NYK] Fields Foul: Personal (1 PF)
+20111225BOSNYK	30	00:44:14	[BOS] Allen Turnover : Bad Pass (2 TO) Steal:Stoudemire (1 ST)
+20111225BOSNYK	31	00:43:57	[NYK] Fields 3pt Shot: Missed
+20111225BOSNYK	32	00:43:55	[BOS] Garnett Rebound (Off:0 Def:1)
+20111225BOSNYK	33	00:43:48	[BOS 9-11] Rondo Jump Shot: Made (7 PTS)
+20111225BOSNYK	34	00:43:33	[NYK 14-9] Stoudemire 3pt Shot: Made (5 PTS) Assist: Anthony (2 AST)
+20111225BOSNYK	35	00:43:05	[BOS] Garnett Turnaround Jump Shot: Missed
+20111225BOSNYK	36	00:43:03	[NYK] Stoudemire Rebound (Off:0 Def:2)
+20111225BOSNYK	37	00:42:59	[BOS] Pavlovic Foul: Personal (1 PF)
+20111225BOSNYK	38	00:42:59	[BOS] Pavlovic Substitution replaced by Daniels
+20111225BOSNYK	39	00:42:59	[BOS] O'Neal Substitution replaced by Bass
+20111225BOSNYK	44	00:42:55	[BOS 10-17] Allen Free Throw Technical (1 PTS)
+20111225BOSNYK	43	00:42:55	[NYK] Stoudemire Technical
+20111225BOSNYK	42	00:42:55	[NYK 17-9] Anthony Free Throw 1 of 1 (3 PTS)
+20111225BOSNYK	41	00:42:55	[BOS] Daniels Foul: Shooting (1 PF)
+20111225BOSNYK	40	00:42:55	[NYK 16-9] Anthony Jump Shot: Made (2 PTS) Assist: Fields (2 AST)
+20111225BOSNYK	45	00:42:32	[BOS] Rondo Jump Shot: Missed
+20111225BOSNYK	46	00:42:30	[NYK] Anthony Rebound (Off:1 Def:3)
+20111225BOSNYK	47	00:42:24	[NYK] Fields Jump Shot: Missed
+20111225BOSNYK	48	00:42:22	[BOS] Bass Rebound (Off:0 Def:1)
+20111225BOSNYK	49	00:42:17	[NYK] Stoudemire Foul: Shooting (1 PF)
+20111225BOSNYK	50	00:42:17	[BOS 11-17] Rondo Free Throw 1 of 2 (8 PTS)
+20111225BOSNYK	51	00:42:17	[BOS] Garnett Substitution replaced by Wilcox
+20111225BOSNYK	52	00:42:17	[BOS 12-17] Rondo Free Throw 2 of 2 (9 PTS)
+20111225BOSNYK	53	00:42:04	[NYK 19-12] Fields Layup Shot: Made (5 PTS) Assist: Chandler (1 AST)
+20111225BOSNYK	54	00:41:49	[BOS] Bass Jump Shot: Missed
+20111225BOSNYK	55	00:41:48	[NYK] Anthony Rebound (Off:1 Def:4)
+20111225BOSNYK	56	00:41:43	[NYK] Anthony 3pt Shot: Missed
+20111225BOSNYK	61	00:41:42	[NYK] Douglas Substitution replaced by Shumpert
+20111225BOSNYK	60	00:41:42	[NYK] Stoudemire Substitution replaced by Jeffries
+20111225BOSNYK	59	00:41:42	[NYK] Team Timeout : Regular
+20111225BOSNYK	58	00:41:42	[BOS] Bass Foul: Personal (1 PF)
+20111225BOSNYK	57	00:41:42	[NYK] Team Rebound
+20111225BOSNYK	62	00:41:24	[NYK] Shumpert 3pt Shot: Missed
+20111225BOSNYK	63	00:41:22	[BOS] Daniels Rebound (Off:0 Def:1)
+20111225BOSNYK	64	00:41:01	[BOS 14-19] Bass Jump Shot: Made (2 PTS) Assist: Allen (1 AST)
+20111225BOSNYK	65	00:40:36	[NYK] Shumpert Driving Jump shot: Missed
+20111225BOSNYK	68	00:40:35	[NYK] Fields Substitution replaced by Walker
+20111225BOSNYK	67	00:40:35	[BOS] Allen Substitution replaced by Dooling
+20111225BOSNYK	66	00:40:35	[NYK] Team Rebound
+20111225BOSNYK	69	00:40:18	[NYK] Walker Turnover : Traveling (1 TO)
+20111225BOSNYK	70	00:40:05	[BOS] Bass Jump Shot: Missed Block: Chandler (1 BLK)
+20111225BOSNYK	71	00:40:02	[BOS] Wilcox Rebound (Off:1 Def:0)
+20111225BOSNYK	72	00:39:58	[BOS] Rondo Jump Shot: Missed Block: Chandler (2 BLK)
+20111225BOSNYK	73	00:39:56	[BOS] Wilcox Rebound (Off:2 Def:0)
+20111225BOSNYK	74	00:39:50	[BOS 16-19] Wilcox Turnaround Jump Shot: Made (2 PTS) Assist: Daniels (1 AST)
+20111225BOSNYK	78	00:39:37	[NYK 21-16] Anthony Free Throw 2 of 2 (5 PTS)
+20111225BOSNYK	77	00:39:37	[NYK] Chandler Substitution replaced by Harrellson
+20111225BOSNYK	76	00:39:37	[NYK 20-16] Anthony Free Throw 1 of 2 (4 PTS)
+20111225BOSNYK	75	00:39:37	[BOS] Bass Foul: Shooting (2 PF)
+20111225BOSNYK	79	00:39:24	[BOS] Daniels Driving Jump shot: Missed Block: Jeffries (1 BLK)
+20111225BOSNYK	80	00:39:22	[NYK] Shumpert Rebound (Off:0 Def:1)
+20111225BOSNYK	83	00:39:17	[NYK 24-16] Shumpert Free Throw 1 of 1 (3 PTS)
+20111225BOSNYK	82	00:39:17	[BOS] Dooling Foul: Shooting (1 PF)
+20111225BOSNYK	81	00:39:17	[NYK 23-16] Shumpert Driving Layup Shot: Made (2 PTS)
+20111225BOSNYK	84	00:39:02	[BOS] Rondo Substitution replaced by Bradley
+20111225BOSNYK	85	00:39:02	[BOS] Bass Substitution replaced by Garnett
+20111225BOSNYK	86	00:39:01	[BOS] Dooling Turnover : Backcourt Turnover (1 TO)
+20111225BOSNYK	87	00:38:50	[NYK] Harrellson Turnover : Out of Bounds Lost Ball Turnover (1 TO)
+20111225BOSNYK	88	00:38:50	[BOS] Team Timeout : Regular
+20111225BOSNYK	91	00:38:30	[BOS 18-24] Dooling Free Throw 2 of 2 (2 PTS)
+20111225BOSNYK	90	00:38:30	[BOS 17-24] Dooling Free Throw 1 of 2 (1 PTS)
+20111225BOSNYK	89	00:38:30	[NYK] Walker Foul: Shooting (1 PF)
+20111225BOSNYK	92	00:38:20	[BOS] Dooling Foul: Shooting (2 PF)
+20111225BOSNYK	93	00:38:20	[NYK 25-18] Shumpert Free Throw 1 of 2 (4 PTS)
+20111225BOSNYK	94	00:38:20	[NYK 26-18] Shumpert Free Throw 2 of 2 (5 PTS)
+20111225BOSNYK	95	00:38:06	[BOS] Garnett Turnover : Traveling (1 TO)
+20111225BOSNYK	96	00:37:53	[NYK] Anthony 3pt Shot: Missed
+20111225BOSNYK	97	00:37:51	[NYK] Jeffries Rebound (Off:1 Def:0)
+20111225BOSNYK	98	00:37:50	[NYK] Jeffries Jump Shot: Missed Block: Garnett (1 BLK)
+20111225BOSNYK	99	00:37:47	[BOS] Wilcox Rebound (Off:2 Def:1)
+20111225BOSNYK	100	00:37:46	[BOS] Wilcox Turnover : Lost Ball (1 TO) Steal:Anthony (1 ST)
+20111225BOSNYK	101	00:37:43	[NYK 28-18] Anthony Layup Shot: Made (7 PTS)
+20111225BOSNYK	102	00:37:25	[BOS] Bradley Jump Shot: Missed
+20111225BOSNYK	103	00:37:24	[NYK] Team Rebound
+20111225BOSNYK	104	00:37:11	[BOS] Wilcox Foul: Shooting (1 PF)
+20111225BOSNYK	105	00:37:11	[NYK 29-18] Anthony Free Throw 1 of 2 (8 PTS)
+20111225BOSNYK	106	00:37:11	[NYK 30-18] Anthony Free Throw 2 of 2 (9 PTS)
+20111225BOSNYK	109	00:37:07	[BOS 20-30] Dooling Free Throw 2 of 2 (4 PTS)
+20111225BOSNYK	108	00:37:07	[BOS 19-30] Dooling Free Throw 1 of 2 (3 PTS)
+20111225BOSNYK	107	00:37:07	[NYK] Walker Foul: Personal (2 PF)
+20111225BOSNYK	110	00:36:48	[NYK 32-20] Jeffries Jump Shot: Made (2 PTS) Assist: Harrellson (1 AST)
+20111225BOSNYK	111	00:36:36	[NYK] Walker Foul: Personal (3 PF)
+20111225BOSNYK	112	00:36:36	[BOS 21-32] Garnett Free Throw 1 of 2 (3 PTS)
+20111225BOSNYK	113	00:36:36	[NYK] Walker Substitution replaced by Balkman
+20111225BOSNYK	114	00:36:36	[BOS 22-32] Garnett Free Throw 2 of 2 (4 PTS)
+20111225BOSNYK	115	00:36:22	[NYK] Shumpert Driving Jump shot: Missed
+20111225BOSNYK	116	00:36:20	[NYK] Shumpert Rebound (Off:1 Def:1)
+20111225BOSNYK	117	00:36:19	[NYK 34-22] Shumpert Hook Bank Shot: Made (7 PTS)
+20111225BOSNYK	118	00:36:06	[NYK] Balkman Foul: Personal (1 PF)
+20111225BOSNYK	119	00:36:06	[BOS 23-34] Garnett Free Throw 1 of 2 (5 PTS)
+20111225BOSNYK	120	00:36:06	[BOS] Dooling Substitution replaced by Rondo
+20111225BOSNYK	121	00:36:06	[BOS] Garnett Free Throw 2 of 2 Missed
+20111225BOSNYK	122	00:36:05	[NYK] Harrellson Rebound (Off:0 Def:1)
+20111225BOSNYK	123	00:36:00	[NYK] Shumpert Running Jump Shot: Missed
+20111225BOSNYK	124	00:36:00	[NYK] Team Rebound
+20111225BOSNYK	125	00:36:00	End of 1st Quarter
