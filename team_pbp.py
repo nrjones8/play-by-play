@@ -15,29 +15,22 @@ GAME_LENGTH = 48
 
 class Game:
 
-    def __init__(self, teams, timeline, date):
+    def __init__(self, teams, times, scores, game_id):
         self.teams = teams
-        self.timeline = timeline
-        self.date = date
-        # Could add things like home/away etc.
-
-class TimeLine:
-
-    def __init__(self, times, scores):
         self.times = times
-        self.teams = scores.keys()
-        self.scores = [scores[self.teams[0]], scores[self.teams[1]]]
+        self.scores = scores
+        self.game_id = game_id
+        # Could add things like home/away etc.
 
     def get_diff(self, team_with_respect_to):
         # Get differential with respect to team <team_with_respect_to>
-        index_with_respect_to = 1 if self.teams[1] == team_with_respect_to else 0
-        other_index = (index_with_respect_to + 1) % 2
-        differential = [self.scores[index_with_respect_to][t] - self.scores[other_index][t] for t in range(len(self.times))]
+        other_team = self.teams[0] if team_with_respect_to == self.teams[1] else self.teams[1]
+        differential = [self.scores[team_with_respect_to][i] - self.scores[other_team][i] for i in range(len(self.times))]
         return differential
 
 def readAllGames(fileName = 'playbyplay20120510040.txt'):
     f = open(fileName, 'r')
-    allLines = f.readlines()
+    all_lines = f.readlines()
     f.close()
 
     # All lines for current game
@@ -46,14 +39,14 @@ def readAllGames(fileName = 'playbyplay20120510040.txt'):
     # {team_name -> [list of game objs]}
     team_to_games = {}
 
-    for i in range(1, len(allLines)):
-        cur_line = allLines[i]
+    for i in range(1, len(all_lines)):
+        cur_line = all_lines[i]
         if cur_line.split('\t')[1] == '1' and i != 1:
             # New game about to start, clear the lines and process past game
             process_cur_game(cur_game, team_to_games)
             cur_game = []
 
-        cur_game.append(allLines[i])
+        cur_game.append(all_lines[i])
 
     return team_to_games
     
@@ -64,49 +57,45 @@ def process_cur_game(game_lines, team_to_games):
     the <team_to_games> dictionary to include the game corresponding
     to <game_lines>
     '''
-    teams, game_timeline, date = parseTimeline(game_lines)
-    game = Game(teams, game_timeline, date)
+    teams, times, scores, game_id = parse_timeline(game_lines)
+    game = Game(teams, times, scores, game_id)
     for t in teams:
         team_to_games.setdefault(t, []).append(game)
     
 
-def parseTimeline(allLines):
+def parse_timeline(all_lines):
     # Last 6 characters of first column correspond to two teams playing
-    game_info = allLines[0].split()[0]
-    game_date = game_info[:-6]
+    game_id = all_lines[0].split()[0]
 
-    teamStr = game_info[-6:]
-    teams = (teamStr[:3], teamStr[3:])
+    team_str = game_id[-6:]
+    teams = (team_str[:3], team_str[3:])
 
     # Time series for each team
-    allTimes = []
+    all_times = []
     scores = dict(zip(teams, [[], []]))
     
     # Parse lines for scores, player whos scored, and when substitutions occur
     score = r'\[([A-z]{3})\s(\d*)\-(\d*)\]'
-    quarterEnd = r'End of\s(.*)'
+    quarter_end = r'End of\s(.*)'
 
-    for i in range(len(allLines)): 
-        line = allLines[i]
+    for i in range(len(all_lines)): 
+        line = all_lines[i]
         split = line.split('\t')
-        timeElapsed = convertTime(split[2])
+        time_elapsed = convert_time(split[2])
         # i.e. [NYK 11-12]
         
-        scoreUpdate = re.search(score, line)
-        if scoreUpdate != None:
+        score_update = re.search(score, line)
+        if score_update != None:
             # Update time seris
-            team, firstScore, secondScore = scoreUpdate.groups()
-            otherTeam = teams[0] if team == teams[1] else teams[1]
+            team, first_score, second_score = score_update.groups()
+            other_team = teams[0] if team == teams[1] else teams[1]
 
-            scores[team].append(int(firstScore))
-            scores[otherTeam].append(int(secondScore))
+            scores[team].append(int(first_score))
+            scores[other_team].append(int(second_score))
             
-            allTimes.append(timeElapsed)
+            all_times.append(time_elapsed)
 
-    #diffSeries = [s0 - s1 for s0, s1 in zip(scores[teams[0]], scores[teams[1]])]
-    timeline = TimeLine(allTimes, scores)
-
-    return teams, timeline, game_date
+    return teams, all_times, scores, game_id
 
 
 def writeTeamTS(times, scores, teams, outFile = 'oneSeries.csv'):
@@ -119,7 +108,7 @@ def writeTeamTS(times, scores, teams, outFile = 'oneSeries.csv'):
         out.write(str(t) + ', ' + str(s) + '\n')
     out.close()
 
-def convertTime(fileTime):
+def convert_time(fileTime):
     '''
     Takes a string from the file\'s TimeRemaining column,
     such as 00:45:52 and converts it to a decimal of 
@@ -137,13 +126,11 @@ def write_games_to_files(team = 'MIA'):
     make_dir_for_team(team)
 
     for g in team_games:
-        date = g.date
-        tl = g.timeline
         # Could use sets here instead
-        other_team = tl.teams[0] if tl.teams[1] == team else tl.teams[1]
-        file_name = team + '/' + date + '-' + other_team + '.csv'
-        differential = tl.get_diff(team)
-        write_one_game_to_file(file_name, tl.times, differential)
+        other_team = g.teams[0] if g.teams[1] == team else g.teams[1]
+        file_name = team + '/' + g.game_id + '.csv'
+        differential = g.get_diff(team)
+        write_one_game_to_file(file_name, g.times, differential)
 
 def make_dir_for_team(team):
     ''' Make directory to store this team's timeline data '''
@@ -163,6 +150,8 @@ def write_one_game_to_file(file_name, times, diffs):
     except:
         print 'Failed to create file %s!' % file_name
 
+if __name__ == "__main__":
+    write_games_to_files()
 
 
 
